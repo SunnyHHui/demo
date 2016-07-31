@@ -1,0 +1,14 @@
+.demo{width:417px; height:417px; position:relative; margin:50px auto}
+#disk{width:417px; height:417px; background:url(../images/disk.jpg) no-repeat}
+#start{width:163px; height:320px; position:absolute; top:46px; left:130px;}
+#start img{cursor:pointer}
+
+[class^=a] {
+    background-color: red;
+}
+
+li:nth-last-child(2){
+
+}
+
+
